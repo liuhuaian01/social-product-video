@@ -1,10 +1,14 @@
 # social-product-video
 
+<p align="center">
+  <img src="assets/icon.png" width="128" height="128" alt="social-product-video icon" />
+</p>
+
 面向抖音、小红书、视频号等平台的**产品宣传 / 口播种草 / 调性美学片**内容策划与脚本撰写 Agent Skill。
 
-按标准 SOP 执行：理解需求 → 沟通明确 → 创建项目 → 明确目标 → 分解任务 → 分步执行 → 产出 → 复核验收 → 交付。支持缺资料主动催要、消费者语言翻译、Hook 与旁白×镜头分工，以及调性美学片（人文 / 生活方式 / 空镜 / 人物模特）。
+**版本：** `1.0.0`（见 `CHANGELOG.md`） · **开发者：** 刘淮安
 
-**开发者：** 刘淮安
+按标准 SOP 执行：理解需求 → 沟通明确 → 创建项目 → 明确目标 → 分解任务 → 分步执行 → 产出 → 复核验收 → 交付。支持缺资料主动催要、消费者语言翻译、Hook 与旁白×镜头分工，以及调性美学片（人文 / 生活方式 / 空镜 / 人物模特）。
 
 **交付原则：** SOP / 调研 / 验收勾选等过程对内消化；交给用户的文档默认只有可拍可用的成品（旁白、分镜、空镜、调度、标题封面）。详见 `delivery.md`。
 
@@ -23,7 +27,12 @@
 
 ```
 social-product-video/
-├── SKILL.md                 # 主流程（必读）
+├── SKILL.md                 # 主流程（必读，含 metadata.version）
+├── CHANGELOG.md             # 版本记录
+├── agents/openai.yaml       # 展示名 / icon / 品牌色
+├── assets/
+│   ├── icon.png             # 大图标
+│   └── icon-small.svg       # 小图标
 ├── sop-checklist.md         # 九段 SOP 速查
 ├── consumer-language.md     # 卖点 → 消费者语言
 ├── tonal-aesthetic.md       # 调性美学片规范
