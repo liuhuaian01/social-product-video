@@ -6,6 +6,11 @@ description: >-
   无资料或资料不全时主动催用户补充；过程对内、交付对外（终稿不含 SOP/T 编号/验收打勾墙）；
   片型含广告、口播种草、材质讲解、调性美学片。Use when writing 产品宣传片、种草脚本、口播稿、调性片、
   材质科普、氛围感短片，或抖音/小红书/视频号内容策划。
+license: MIT
+metadata:
+  author: 刘淮安
+  version: "1.0.0"
+  icon: "./assets/icon.png"
 ---
 
 # 社媒产品视频策划与脚本
