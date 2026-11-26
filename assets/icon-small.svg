@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+  <!-- Social product video: aperture + fabric fold -->
+  <rect width="20" height="20" rx="4" fill="#1A1A1A"/>
+  <circle cx="10" cy="10" r="6.2" stroke="#E8A04A" stroke-width="1.4" fill="none"/>
+  <circle cx="10" cy="10" r="2.4" fill="#F5E6C8"/>
+  <path d="M4.2 13.8C5.6 12.2 7.4 11.4 10 11.6C12.6 11.8 14.4 13.2 15.8 15" stroke="#F5E6C8" stroke-width="1.1" stroke-linecap="round" fill="none" opacity="0.85"/>
+  <path d="M6.5 6.2L8.1 8.6" stroke="#E8A04A" stroke-width="1.1" stroke-linecap="round"/>
+  <path d="M13.5 6.2L11.9 8.6" stroke="#E8A04A" stroke-width="1.1" stroke-linecap="round"/>
+  <path d="M10 3.6V5.6" stroke="#E8A04A" stroke-width="1.1" stroke-linecap="round"/>
+</svg>
