@@ -1,9 +1,9 @@
 interface:
   display_name: "社媒产品视频"
-  short_description: "抖音/小红书种草与调性片脚本"
+  short_description: "种草/调性片/品牌旁白脚本"
   icon_small: "./assets/icon-small.svg"
   icon_large: "./assets/icon.png"
   brand_color: "#E8A04A"
-  default_prompt: "用 $social-product-video 按 SOP 帮我写一条抖音产品种草脚本，先确认片型与资料是否齐全。"
+  default_prompt: "用 $social-product-video 按 SOP 写脚本：先确认片型、语体（种草聊天腔或品牌旁白腔）与资料是否齐全。"
 policy:
   allow_implicit_invocation: true
