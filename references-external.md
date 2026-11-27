@@ -32,3 +32,11 @@
 ## 四、已落地（写入本 Skill 的增量）
 
 见 [viral-formulas.md](viral-formulas.md)「外部吸收」与 [hooks-and-retention.md](hooks-and-retention.md) 四维口播验收。
+
+## 五、WorkBuddy · brand-oral-copy（2026-11 吸收）
+
+| 来源 | 价值 | 落地 |
+|------|------|------|
+| `~/.workbuddy/skills/brand-oral-copy`（作者：小章鱼） | 旁白腔 vs 聊天腔；40s 八段骨架；一条一选题；收尾总纲/分条/末条；五条自检；十一条带原句的实踩错误；金太阳/羊绒纪语体与广告法；定稿 01–04 | [brand-oral.md](brand-oral.md)、[brand-oral-mistakes.md](brand-oral-mistakes.md)、[brand-voice.md](brand-voice.md)；主流程语体分轨 |
+
+**刻意保留分轨**：不把全 Skill 改成只写旁白腔；种草仍走消费者语言。共性规则（不踩友工艺、不复述画面、不编造）两边共用。
