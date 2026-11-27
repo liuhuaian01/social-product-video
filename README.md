@@ -6,9 +6,9 @@
 
 面向抖音、小红书、视频号等平台的**产品宣传 / 口播种草 / 调性美学片**内容策划与脚本撰写 Agent Skill。
 
-**版本：** `1.0.0`（见 `CHANGELOG.md`） · **开发者：** 刘淮安
+**版本：** `1.1.0`（见 `CHANGELOG.md`） · **开发者：** 刘淮安
 
-按标准 SOP 执行：理解需求 → 沟通明确 → 创建项目 → 明确目标 → 分解任务 → 分步执行 → 产出 → 复核验收 → 交付。支持缺资料主动催要、消费者语言翻译、Hook 与旁白×镜头分工，以及调性美学片（人文 / 生活方式 / 空镜 / 人物模特）。
+按标准 SOP 执行：理解需求 → 沟通明确 → 创建项目 → 明确目标 → 分解任务 → 分步执行 → 产出 → 复核验收 → 交付。支持缺资料主动催要、**种草聊天腔 / 品牌旁白腔分轨**、消费者语言翻译、Hook 与旁白×镜头分工、调性美学片，以及品牌口播八段骨架（吸收 `brand-oral-copy`）。
 
 **交付原则：** SOP / 调研 / 验收勾选等过程对内消化；交给用户的文档默认只有可拍可用的成品（旁白、分镜、空镜、调度、标题封面）。详见 `delivery.md`。
 
@@ -22,6 +22,7 @@
 | 口播种草 | 真实体验；本片只打透 1–2 个卖点；禁卖点巡展 |
 | 材质讲解 | 一条只深挖一种材质（认知与信任）；可多层属性 |
 | 调性美学片 | 主张 / 美学 / 生活方式主导；大量空镜；人物兼模特 |
+| 品牌旁白口播 | 旁白腔；八段骨架；一条一选题；收尾分层级 |
 
 ## 目录
 
@@ -34,11 +35,14 @@ social-product-video/
 │   ├── icon.png             # 大图标
 │   └── icon-small.svg       # 小图标
 ├── sop-checklist.md         # 九段 SOP 速查
-├── consumer-language.md     # 卖点 → 消费者语言
+├── consumer-language.md     # 卖点 → 消费者语言（聊天腔）
+├── brand-oral.md            # 品牌旁白腔 / 八段骨架
+├── brand-oral-mistakes.md   # 十一条实踩错误
+├── brand-voice.md           # 金太阳/羊绒纪语体与定稿
 ├── tonal-aesthetic.md       # 调性美学片规范
 ├── hooks-and-retention.md   # Hook、旁白×镜头、完播
 ├── viral-formulas.md        # 爆款三拍 / 承诺兑现 / 反差钩子
-├── references-external.md   # 外部案例与 GitHub Skill 调研
+├── references-external.md   # 外部案例与调研
 ├── delivery.md              # 对外交付 vs 对内过程
 ├── platforms.md             # 抖音 / 小红书 / 视频号
 ├── examples.md              # 示例与反例
